@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "238833439648",
+    "project_id": "fir-flutter-login-bf998",
+    "storage_bucket": "fir-flutter-login-bf998.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238833439648:android:5d1c9f70b3593d3e29cac5",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238833439648-hj2lc80cmqsdi21ck7ch01olsie7ahkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0eLkZ5zDaib2o99TjJEpKAooCpfKeUQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238833439648-hj2lc80cmqsdi21ck7ch01olsie7ahkp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
